@@ -41,7 +41,7 @@ My goal is to create a faster and more reliable 5G communication environment thr
 - ⚡ Fun fact: **I recently started CrossFit**💪  
 
 
-</td><td valign="top" width="50%">
+
 
 
 
