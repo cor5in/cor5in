@@ -64,25 +64,24 @@ My goal is to create a faster and more reliable 5G communication environment thr
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="75" /></a>  
 </div>  
 
-<br/>  
-
+<br/><br/>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cor5in&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div style="display: flex; flex-direction: column;">
+  <div style="margin-bottom: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cor5in&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  </div>
+</div>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<br/><br/>
 
   
 
-<br/>  
+<br/> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=cor5in&&style=flat-square)  
   
