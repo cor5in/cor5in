@@ -1,4 +1,4 @@
-<h1 align="center">Good day 👋, I'mI'm Geon Kim</h1>
+<h1 align="center">Good day 👋, I'm Geon Kim</h1>
 <h3 align="center">Developer Who Will Change the World Someday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cor5in&label=Profile%20views&color=0e75b6&style=flat" alt="cor5in" /> </p>
