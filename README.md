@@ -49,7 +49,7 @@ I enjoy generating new ideas and technologies through development and research, 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gifer.com/embed/4Y8h" width=480 height=428.444 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>/>
+<img src="https://gifer.com/embed/4Y8h" width=480 height=428.444 frameBorder="0" allowFullScreen>
 </div>  
 
 
