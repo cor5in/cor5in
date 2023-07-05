@@ -30,22 +30,33 @@ My goal is to create a faster and more reliable 5G communication environment thr
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Mobile Communication Lab](https://sites.google.com/khu.ac.kr/mcl549)  
+
   
 
 - 🌱 I’m currently learning **Cloud Native Infrastructure**  
+
   
 
 - ❓ Ask me about anything related to **Mobile Communication**  
+
   
 
-- ⚡ Fun fact: **I recently started CrossFit**💪  
+- ⚡ Fun fact: **I recently started CrossFit**💪
 
 
 
+  
 
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1pMGQxMzFlazkwc2o3N3ptd212MDdqaHhqN2ZvejRpajBob3NuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
+
+
 
 <br/>  
 
