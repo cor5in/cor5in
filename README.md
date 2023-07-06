@@ -22,7 +22,8 @@ Hello! I'm a developer currently pursuing a master's degree in **mobile communic
 I have a keen interest in combining **cloud-native infrastructure with 5G communication to drive advancements**.
 
 My goal is to create a faster and more reliable 5G communication environment through innovative technology. <br>
-I enjoy generating new ideas and technologies through development and research, and applying them to improve people's daily lives and quality of life.<br> I place great importance on **communication and collaboration**, and I'm passionate about working with team members to develop innovative solutions.    
+I enjoy generating new ideas and technologies through development and research, and applying them to improve people's daily lives and quality of life.<br><br> 
+I place great importance on **communication and collaboration**, and I'm passionate about working with team members to develop innovative solutions.    
   
 
 <br/>  
