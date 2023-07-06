@@ -32,7 +32,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-🔭  I’m currently working on [Mobile Communication Lab](https://sites.google.com/khu.ac.kr/mcl549)    
+🔭  I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    
   
 
 🌱 I’m currently learning **Cloud Native Infrastructure**    
