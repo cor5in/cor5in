@@ -72,19 +72,29 @@ I place great importance on **communication and collaboration**, and I'm passion
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-</div>  
+</div>
 
+<td valign="top" width="100%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" width="100%" alt="cor5in's Top Languages">
+
+</td>
+  
 <br/>  
+
 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cor5in&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![cor5in's Stats](https://github-readme-stats.vercel.app/api?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
 
-</td><td valign="top" width="50%">
+</td>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&hide_border=true&layout=compact" align="right" /></div>
+<td valign="top" width="50%">
+
+
+![cor5in's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cor5in&theme=great-gatsby&hide_border=true)
 
 </td></tr></table>  
 
