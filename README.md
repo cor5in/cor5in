@@ -98,16 +98,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 </td></tr></table>  
 
-<br/>  
 
-
-
-### My Playlist  
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3155vgubvtj7jfogcz3h43pwtjhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=3155vgubvtj7jfogcz3h43pwtjhi&redirect=true)
-
-<br />
 
 </div>  
 
