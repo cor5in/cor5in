@@ -32,9 +32,11 @@ I place great importance on **communication and collaboration**, and I'm passion
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-🔭  I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    
-  
+:school: B. S. (Summa Cum Laude)         
+        Dept. of Electronic engineering, KHU, 2023
 
+🔭  I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    
+ 
 🌱 I’m currently learning **Cloud Native Infrastructure**    
 
 🤝 I’m looking for help with **C-V2X** and **Cloud 5G Core**
