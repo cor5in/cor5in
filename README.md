@@ -39,7 +39,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 🤝 I’m looking for help with **C-V2X** and **Cloud 5G Core**
 
-📝 I regularly write articles on [Today_I_Learned](https://github.com/Cor5in/TIL)
+📝 I regularly write articles on [Today_I_Learned](https://github.com/Cor5in/TIL), [My Blog](https://geon-portfolio.vercel.app/)
 
 ❓ Ask me about anything related to **Mobile Communication**  
   
