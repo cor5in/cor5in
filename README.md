@@ -37,7 +37,7 @@ I place great importance on **communication and collaboration**, and I'm passion
  
 🌱 I’m currently learning **Cloud Native Infrastructure**    
 
-🤝 I’m looking for help with **MEC** and **Solutions Architecture**
+🤝 I’m looking for help with **MEC**, **Solutions Architecture**, and **Quantum Cryptography**
 
 📝 I regularly write articles on [Today_I_Learned](https://github.com/Cor5in/TIL), [My Blog](https://geon-portfolio.vercel.app/)
 
