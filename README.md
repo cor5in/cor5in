@@ -37,11 +37,11 @@ I place great importance on **communication and collaboration**, and I'm passion
  
 🌱 I’m currently learning **Cloud Native Infrastructure**    
 
-🤝 I’m looking for help with **MEC** and **Peneteration Testing**
+🤝 I’m looking for help with **MEC** and **Open RAN**
 
 📝 I regularly write articles on [My Blog](https://cor5in.github.io/)
 
-❓ Ask me about anything related to **Mobile Communication**  
+❓ Ask me about anything related to **Mobile Communications**  
   
 
 ⚡ Fun fact:  **I recently started [Youtube](https://www.youtube.com/channel/UClv7hh6WL_rMNAQ4iLevELw)** 🎬 
