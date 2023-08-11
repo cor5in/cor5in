@@ -39,12 +39,12 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 🤝 I’m looking for help with **MEC** and **Peneteration Testing**
 
-📝 I regularly write articles on [Today_I_Learned](https://github.com/Cor5in/TIL), [My Blog](https://geon-portfolio.vercel.app/)
+📝 I regularly write articles on [My Blog](https://cor5in.github.io/)
 
 ❓ Ask me about anything related to **Mobile Communication**  
   
 
-⚡ Fun fact:  **I recently started CrossFit** 💪  
+⚡ Fun fact:  **I recently started [Youtube](https://www.youtube.com/channel/UClv7hh6WL_rMNAQ4iLevELw)** 🎬 
   
 
 📫 How to reach me: gun@khu.ac.kr  
