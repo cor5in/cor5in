@@ -35,9 +35,9 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 🔭  I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    
  
-🌱 I’m currently learning **Cloud Native Infrastructure**    
+🌱 I’m currently learning **Cloud Native 5GC**    
 
-🤝 I’m looking for help with **MEC** and **Open RAN**
+🤝 I’m looking for help with **CNF** and **Open RAN**
 
 📝 I regularly write articles on [My Blog](https://cor5in.github.io/)
 
