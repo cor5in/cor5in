@@ -40,7 +40,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 🤝 I’m looking for help with **CNF** and **Open RAN**
 
-📝 I regularly write articles on [My Blog](https://cor5in.github.io/)
+📝 I regularly write articles on [My Blog](https://velog.io/@cor5in)
 
 ❓ Ask me about anything related to **Mobile Communications**  
   
@@ -67,8 +67,6 @@ I place great importance on **communication and collaboration**, and I'm passion
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="75" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="75" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
@@ -80,7 +78,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 <td valign="top" width="100%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" width="100%" alt="cor5in's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" width="100%" alt="41vin's Top Languages">
 
 </td>
   
@@ -91,14 +89,14 @@ I place great importance on **communication and collaboration**, and I'm passion
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![cor5in's Stats](https://github-readme-stats.vercel.app/api?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
+![41vin's Stats](https://github-readme-stats.vercel.app/api?username=41vin&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
 
 </td>
 
 <td valign="top" width="50%">
 
 
-![cor5in's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cor5in&theme=great-gatsby&hide_border=true)
+![41vin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=41vin&theme=great-gatsby&hide_border=true)
 
 </td></tr></table>  
 
@@ -108,7 +106,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=cor5in&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=41vin&&style=flat-square)  
   
 
 <br/>  
@@ -117,4 +115,3 @@ I place great importance on **communication and collaboration**, and I'm passion
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
