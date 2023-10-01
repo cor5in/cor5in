@@ -27,91 +27,30 @@ I enjoy generating new ideas and technologies through development and research, 
 I place great importance on **communication and collaboration**, and I'm passionate about working with team members to develop innovative solutions.    
   
 
-<br/>  
+# 💫 About Me:
+🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    <br> <br>🌱 I’m currently learning **Cloud Native 5GC**    <br><br>🤝 I’m looking for help with **CNF** and **Open RAN**<br><br>📝 I regularly write articles on [My Blog](https://velog.io/@cor5in)<br><br>❓ Ask me about anything related to **Mobile Communications**  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gun.__.kim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/건-김-427a9a256) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@erudite.gun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClv7hh6WL_rMNAQ4iLevELw) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-🔭  I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    
- 
-🌱 I’m currently learning **Cloud Native 5GC**    
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=41vin&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=41vin&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🤝 I’m looking for help with **CNF** and **Open RAN**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=41vin&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-📝 I regularly write articles on [My Blog](https://velog.io/@cor5in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-❓ Ask me about anything related to **Mobile Communications**  
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=41vin&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
-⚡ Fun fact:  **I recently started [Youtube](https://www.youtube.com/channel/UClv7hh6WL_rMNAQ4iLevELw)** 🎬 
-  
+---
+[![](https://visitcount.itsvg.in/api?id=41vin&icon=1&color=1)](https://visitcount.itsvg.in)
 
-📫 How to reach me: gun@khu.ac.kr  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src= "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="75" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="75" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-</div>
-
-<td valign="top" width="100%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor5in&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" width="100%" alt="41vin's Top Languages">
-
-</td>
-  
-<br/>  
-
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-![41vin's Stats](https://github-readme-stats.vercel.app/api?username=41vin&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
-
-</td>
-
-<td valign="top" width="50%">
-
-
-![41vin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=41vin&theme=great-gatsby&hide_border=true)
-
-</td></tr></table>  
-
-
-
-</div>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=41vin&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
