@@ -28,7 +28,7 @@ I place great importance on **communication and collaboration**, and I'm passion
   
 
 # 💫 About Me:
-🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    <br> <br>🌱 I’m currently learning **Cloud Native 5GC**    <br><br>🤝 I’m looking for help with **CNF** and **Open RAN**<br><br>📝 I regularly write articles on [My Blog](https://velog.io/@cor5in)<br><br>❓ Ask me about anything related to **Mobile Communications**  
+🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    <br> <br>🌱 I’m currently learning **Cloud Native 5GC**    <br><br>🤝 I’m looking for help with **eBPF** and **Open RAN**<br><br>📝 I regularly write articles on [My Blog](https://velog.io/@cor5in)<br><br>❓ Ask me about anything related to **Mobile Communications**  
 
 
 ## 🌐 Socials:
