@@ -12,7 +12,7 @@ I place great importance on **communication and collaboration**, and I'm passion
   
 
 # 💫 About Me:
-🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    <br> <br>🌱 I’m currently learning **Cloud Native 5GC**    <br><br>🤝 I’m looking for help with **eBPF** and **Open RAN**<br><br>📝 I regularly write articles on [My BLOG](https://41vin.github.io)<br><br>❓If you're curious about me, please take a look at [MY PORTFOLIO](https://geonkim.netlify.app/)  
+🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549)    <br> <br>🌱 I’m currently learning **Open RAN**    <br><br>🤝 I’m looking for help with **Private 5G** and **Aether of ONF**<br><br>📝 I regularly write articles on [My BLOG](https://41vin.github.io)<br><br>❓If you're curious about me, please take a look at [MY PORTFOLIO](https://geonkim.netlify.app/)  
 
 
 ## 🌐 Socials:
