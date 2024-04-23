@@ -13,7 +13,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 # 💫 About Me:
 🔭 I’m currently working on [KyungHee MCL](https://sites.google.com/khu.ac.kr/mcl549) <br><br>
-🧑‍💻 I am part of the [SD-RAN engineering team](https://wiki.aetherproject.org/display/HOME/Members+and+Tasks) under the Project Aether, which is part of the Linux Foundation <br><br>
+🧑‍💻 I am part of the SD-RAN engineering team within Project Aether, hosted by the Linux Foundation <br><br>
 🌱 I’m currently learning **RIC(RAN Intelligent Controller)**  <br><br>
 🤝 I’m looking for help with **Software Defined Network** <br><br>
 📝 I regularly write articles on [My BLOG](https://41vin.github.io) <br><br>
