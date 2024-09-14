@@ -15,8 +15,8 @@ I place great importance on **communication and collaboration**, and I'm passion
 🔭 I’m currently working on [KyungHee MCL](https://eemcl.khu.ac.kr/) <br><br>
 🧑‍💻 I am part of the [SD-RAN engineering team](https://wiki.aetherproject.org/display/HOME/Members+and+Tasks) under the Project Aether, hosted by the Linux Foundation <br><br>
 🌱 I’m currently learning **Cloud Native RAN**  <br><br>
-🤝 I’m looking for help with **Mobile Edge Comoputing** <br><br>
-📝 I regularly write articles on [My BLOG](https://41vin.github.io) <br><br>
+🤝 I’m looking for help with **Lightweight DL** <br><br>
+📝 I regularly write articles on [My BLOG](https://cor5in.github.io) <br><br>
 ❓ If you're curious about me, please take a look at [MY PORTFOLIO](https://geonkim.netlify.app/)  
 
 
@@ -24,13 +24,11 @@ I place great importance on **communication and collaboration**, and I'm passion
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gun.__.kim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/41vin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClv7hh6WL_rMNAQ4iLevELw) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
