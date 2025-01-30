@@ -14,8 +14,8 @@ I place great importance on **communication and collaboration**, and I'm passion
 # 💫 About Me:
 🔭 I’m currently working on [KyungHee MCL](https://eemcl.khu.ac.kr/) <br><br>
 🧑‍💻 I am part of the [SD-RAN engineering team](https://wiki.aetherproject.org/display/HOME/Members+and+Tasks) under the Project Aether, hosted by the Linux Foundation <br><br>
-🌱 I’m currently learning **AI-RAN**  <br><br>
-🤝 I’m looking for help with **NVIDIA Aerial Network** <br><br>
+🌱 I’m currently learning **Online Convex Optimization**  <br><br>
+🤝 I’m looking for help with **Small Cell On/Off** <br><br>
 📝 I regularly write articles on [My BLOG](https://cor5in.github.io) <br><br>
 ❓ If you're curious about me, please take a look at [MY PORTFOLIO](https://geonkim.netlify.app/)  
 
