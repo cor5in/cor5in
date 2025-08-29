@@ -13,7 +13,7 @@ I place great importance on **communication and collaboration**, and I'm passion
 
 # 💫 About Me:
 🔭 I’m currently working on [KyungHee MCL](https://eemcl.khu.ac.kr/) <br><br>
-🌱 I’m currently learning **Online Convex Optimization**  <br><br>
+🌱 I’m currently learning **Digital Twin for AI-RAN**  <br><br>
 🤝 I’m looking for help with **Generative AI for O-RAN** <br><br>
 📝 I regularly write articles on [My BLOG](https://cor5in.github.io) <br><br>
 ❓ If you're curious about me, please take a look at [MY PORTFOLIO](https://geonkim.netlify.app/)  
